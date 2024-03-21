@@ -1,0 +1,216 @@
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\DACS_ThueTro.dll.config
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\DACS_ThueTro.dll
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\DACS_ThueTro.pdb
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\csc.exe
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\csc.exe.config
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\csc.rsp
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\csi.exe
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\csi.exe.config
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\csi.rsp
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\System.AppContext.dll
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\System.Collections.Immutable.dll
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\System.Console.dll
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\System.Globalization.Calendars.dll
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\System.IO.Compression.dll
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\System.IO.FileSystem.dll
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\System.Net.Http.dll
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\System.Net.Sockets.dll
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\System.Reflection.Metadata.dll
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\System.ValueTuple.dll
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\System.Xml.XPath.dll
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\vbc.exe
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\vbc.exe.config
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\vbc.rsp
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\VBCSCompiler.exe
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\VBCSCompiler.exe.config
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\Antlr3.Runtime.dll
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\EntityFramework.dll
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\EntityFramework.SqlServer.dll
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\Microsoft.Owin.dll
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\Microsoft.Owin.Security.dll
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\Microsoft.Owin.Security.Google.dll
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\Microsoft.Web.Infrastructure.dll
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\Newtonsoft.Json.dll
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\Owin.dll
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\System.Web.Helpers.dll
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\System.Web.Mvc.dll
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\System.Web.Optimization.dll
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\System.Web.Razor.dll
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\System.Web.WebPages.Deployment.dll
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\System.Web.WebPages.dll
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\System.Web.WebPages.Razor.dll
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\WebGrease.dll
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\System.Web.Helpers.xml
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\System.Web.Mvc.xml
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\System.Web.Optimization.xml
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\System.Web.Razor.xml
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\System.Web.WebPages.xml
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\System.Web.WebPages.Deployment.xml
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\System.Web.WebPages.Razor.xml
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\Newtonsoft.Json.xml
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\Antlr3.Runtime.pdb
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\EntityFramework.xml
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\EntityFramework.SqlServer.xml
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\Microsoft.Owin.xml
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\Microsoft.Owin.Security.xml
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\Microsoft.Owin.Security.Google.xml
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\obj\Debug\DACS_ThueTro.csproj.AssemblyReference.cache
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\obj\Debug\DACS_ThueTro.csproj.CoreCompileInputs.cache
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\obj\Debug\DACS_ThueTro.csproj.CopyComplete
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\obj\Debug\DACS_ThueTro.dll
+D:\Đồ Án Cơ Sở\DEMODACS\DACS_ThueTro\DACS_ThueTro\obj\Debug\DACS_ThueTro.pdb
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\DACS_ThueTro.dll.config
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\DACS_ThueTro.dll
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\DACS_ThueTro.pdb
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\csc.exe
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\csc.exe.config
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\csc.rsp
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\csi.exe
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\csi.exe.config
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\csi.rsp
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\Microsoft.Managed.Core.targets
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\System.AppContext.dll
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\System.Collections.Immutable.dll
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\System.Console.dll
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\System.Globalization.Calendars.dll
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\System.IO.Compression.dll
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\System.IO.FileSystem.dll
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\System.Net.Http.dll
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\System.Net.Sockets.dll
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\System.Reflection.Metadata.dll
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\System.ValueTuple.dll
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\System.Xml.XmlDocument.dll
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\System.Xml.XPath.dll
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\vbc.exe
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\vbc.exe.config
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\vbc.rsp
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\VBCSCompiler.exe
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\roslyn\VBCSCompiler.exe.config
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\Antlr3.Runtime.dll
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\EntityFramework.dll
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\EntityFramework.SqlServer.dll
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\Microsoft.AspNet.Identity.Core.dll
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\Microsoft.Owin.dll
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\Microsoft.Owin.Security.Cookies.dll
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\Microsoft.Owin.Security.dll
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\Microsoft.Owin.Security.Facebook.dll
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\Microsoft.Owin.Security.Google.dll
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\Microsoft.Owin.Security.OAuth.dll
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\Microsoft.Owin.Security.Twitter.dll
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\Microsoft.Web.Infrastructure.dll
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\Newtonsoft.Json.dll
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\Owin.dll
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\System.Web.Helpers.dll
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\System.Web.Mvc.dll
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\System.Web.Optimization.dll
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\System.Web.Razor.dll
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\System.Web.WebPages.Deployment.dll
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\System.Web.WebPages.dll
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\System.Web.WebPages.Razor.dll
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\WebGrease.dll
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\System.Web.Helpers.xml
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\System.Web.Mvc.xml
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\System.Web.Optimization.xml
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\System.Web.Razor.xml
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\System.Web.WebPages.xml
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\System.Web.WebPages.Deployment.xml
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\System.Web.WebPages.Razor.xml
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\Newtonsoft.Json.xml
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\Antlr3.Runtime.pdb
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\EntityFramework.xml
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\EntityFramework.SqlServer.xml
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\Microsoft.AspNet.Identity.Core.xml
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\Microsoft.Owin.xml
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\Microsoft.Owin.Security.xml
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\Microsoft.Owin.Security.Facebook.xml
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\Microsoft.Owin.Security.Cookies.xml
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\Microsoft.Owin.Security.Google.xml
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\Microsoft.Owin.Security.Twitter.xml
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\Microsoft.Owin.Security.OAuth.xml
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\obj\Debug\DACS_ThueTro.csproj.AssemblyReference.cache
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\obj\Debug\DACS_ThueTro.csproj.CoreCompileInputs.cache
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\obj\Debug\DACS_ThueTro.csproj.CopyComplete
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\obj\Debug\DACS_ThueTro.dll
+D:\DACS\DACS\DACS_ThueTro\DACS_ThueTro\obj\Debug\DACS_ThueTro.pdb

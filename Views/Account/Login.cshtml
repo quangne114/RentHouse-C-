@@ -1,0 +1,62 @@
+﻿@using DACS_ThueTro.Models
+@model LoginViewModel
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+
+    <!-- font awesome cdn link  -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">
+
+    <!-- custom css file link  -->
+    <link rel="stylesheet" href="css/style.css">
+
+</head>
+<body>
+
+
+    <!-- header section ends -->
+    <!-- login section starts  -->
+    <section class="form-container">
+        <form action="" method="post">
+            <h3>Đăng Nhập</h3>
+            <div class="form-group">
+                @Html.AntiForgeryToken()
+                <div class="col-md-10">
+                    @Html.TextBoxFor(m => m.Email, new { @class = "form-control", placeholder = "Địa Chỉ Email", style = "min-width: 100% ; height : 60px ; border: 1px solid black ; padding-left: 10px" });
+                    @Html.ValidationMessageFor(m => m.Email, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            <br>
+            <div class="form-group">
+                <div class="col-md-10">
+                    @Html.PasswordFor(m => m.Password, new { @class = "form-control", placeholder = "Mật Khẩu", style = "min-width: 100% ; height : 60px ; border: 1px solid black ; padding-left: 10px" })
+                    @Html.ValidationMessageFor(m => m.Password, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <div class="checkbox">
+                        @Html.CheckBoxFor(m => m.RememberMe, new { @class = "form-control checkbox-inline", style = "margin-top: 10px" })
+                        @Html.LabelFor(m => m.RememberMe, new { @class = "checkbox-inline", style = "font-size: 16px" })
+                    </div>
+                </div>
+            </div>
+            <p>Bạn chưa có tài khoản? <a href="register.html">Đăng Ký Ngay</a></p>
+            <input type="submit" value="Đăng Nhập" name="submit" class="btn">
+        </form>
+    </section>
+
+    <!-- login section ends -->
+    <!-- footer section ends -->
+    <!-- custom js file link  -->
+    <script src="js/script.js"></script>
+
+</body>
+</html>
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

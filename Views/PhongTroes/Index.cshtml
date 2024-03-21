@@ -1,0 +1,105 @@
+﻿@model IEnumerable<DACS_ThueTro.Models.PhongTro>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+
+    <!-- font awesome cdn link  -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">
+
+    <!-- custom css file link  -->
+    <link rel="stylesheet" href="css/style.css">
+
+</head>
+<body>
+
+
+    <!-- header section ends -->
+    <!-- home section starts  -->
+
+    <div class="home">
+
+        <section class="center">
+
+            <form action="@Url.Action("Search", "PhongTroes", new  {area  = ""})" method="post">
+                <h3>Tìm nơi ở của bạn</h3>
+                <div class="box">
+                    <p>Nhập địa chỉ cần tìm <span>*</span></p>
+                    <input type="text" name="location" required maxlength="50" placeholder="Tìm kiếm" class="input">
+                </div>            
+                <input type="submit" value="Tìm Kiếm" name="search" class="btn">
+            </form>
+
+        </section>
+
+    </div>
+
+    <!-- home section ends -->
+    <!-- services section starts  -->
+
+    <section class="services">
+
+        <h1 class="heading">Dịch Vụ Của Chúng Tôi</h1>
+
+        <div class="box-container">
+            <div class="box">
+                <img src="images/icon-2.png" alt="">
+                <h3>Dịch vụ Thuê Trọ</h3>
+                <p>Cung cấp thông tin và tìm trọ, đánh giá phòng trọ, hỗ trợ và tư vấn, xử lý giao dịch và hợp đồng.</p>
+            </div>
+            <div class="box">
+                <img src="images/icon-4.png" alt="">
+                <h3>Nhiều Loại Phòng</h3>
+                <p>Cung các phòng trọ khác nhau, từ ở đơn, phòng ghép, phòng có gác hoặc không có gác.</p>
+            </div>
+            <div class="box">
+                <img src="images/icon-6.png" alt="">
+                <h3>Hỗ Trợ 24/7</h3>
+                <p>Tư vấn hỗ trợ khách hàng trong vấn đề thuê trọ và hỗ trợ chủ trọ đăng sản phẩm của mình.</p>
+            </div>
+
+        </div>
+
+    </section>
+
+    <!-- services section ends -->
+    <!-- listings section starts  -->
+
+
+    <section class="listings">
+
+        <h1 class="heading">Bài Đăng Mới Nhất</h1>
+
+        <div class="box-container">
+            @foreach (var item in Model)
+            {
+                <div class="box">
+                    <h1>Ngày Đăng</h1>
+                    <div class="admin">
+                        <div>
+                            <span>@item.NgayDang</span>
+                        </div>
+                    </div>
+                    <div class="thumb">
+                         <p class="total-images"><img src="/Content/AnhTro/@item.Image" /></p>
+                    </div>
+                    <h3 class="name">@item.Title</h3>
+                    <p class="location"><i class="fas fa-map-marker-alt"></i><span>@item.DiaChi</span></p>
+                    <a href="">@Html.ActionLink("Chi tiết", "Details", "PhongTroes", new { id = item.Id_PhongTro }, new { @class = "btn" })</a>
+                </div>
+            }
+        </div>
+
+        <div style="margin-top: 2rem; text-align:center;">
+            <a href="listings.html" class="inline-btn">view all</a>
+        </div>
+    </section><!-- listings section ends -->
+    <!-- custom js file link  -->
+    <script src="~/Content/js/script.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,74 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" datatarget=".navbar-collapse" title="more options">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+              
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li>
+                        <a href="@Url.Action("Index", "PhongTroes" , new {area = ""})">Trở Lại Trang Chủ</a>
+                     </li>
+                </ul>
+            </div>
+</div>
+</div>
+<!-- Content row -->
+<div class="container">
+    <div class="row">
+        <!-- SIDEBAR Open -->
+        <div id="content-left" class="col-2 col-lg-2">
+            <h1>Quản lý</h1>
+            @Html.ActionLink("Quản lý Phòng Trọ", "Index", "PhongTro", new { area = "Admin" }, new
+                {
+                    @class = "navbar-brand"
+                })
+            @Html.ActionLink("Quản lý Chủ Trọ", "Index", "ChuTro", new { area = "Admin" }, new
+            {
+                @class = "navbar-brand"
+            })
+            @Html.ActionLink("Quản lý Khách Hàng", "Index", "KhachHang", new { area = "Admin" }, new
+            {
+             @class = "navbar-brand"
+             })
+            @Html.ActionLink("Quản lý Loại Phòng", "Index", "LoaiPhong", new { area = "Admin" }, new
+            {
+                @class = "navbar-brand"
+            })
+
+        </div>
+<!-- right content box -->
+<div id="content-right" class="col-lg-10 container">
+    @RenderBody()
+</div>
+</div>
+<div class="row">
+    <div class="col-md-12">
+        <footer style="text-align:center">
+            <p>&copy; @DateTime.Now.Year </p>
+        </footer>
+    </div>
+</div>
+</div>
+@Scripts.Render("~/bundles/jquery")
+@Scripts.Render("~/bundles/bootstrap")
+@RenderSection("scripts", required: false)
+@Scripts.Render("~/Scripts/jquery.validate.min.js")
+@Scripts.Render("~/Scripts/jquery.validate.unobtrusive.min.js")
+</body>
+</html>

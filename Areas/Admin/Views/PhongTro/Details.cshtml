@@ -1,0 +1,132 @@
+﻿@model DACS_ThueTro.Models.PhongTro
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>PhongTro</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.ChuTro.TenChuTro)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ChuTro.TenChuTro)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.LoaiPhong.TenLoaiPhong)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LoaiPhong.TenLoaiPhong)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Title)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Title)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Image)
+        </dt>
+
+        <dd>
+           @* @Html.DisplayFor(model => model.Image*@
+            <img style="max-width: 100%" src="/Content/AnhTro/@Model.Image" />
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.GiaThue)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.GiaThue)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.GiaCoc)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.GiaCoc)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DienTich)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DienTich)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Mota)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Mota)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SDT)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SDT)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.LienHe)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LienHe)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DiaChi)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DiaChi)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NgayDang)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NgayDang)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NgayHetHan)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NgayHetHan)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TrangThai)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TrangThai)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id_PhongTro }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

@@ -1,0 +1,67 @@
+﻿@model DACS_ThueTro.Models.RegisterViewModel
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Register</title>
+
+    <!-- font awesome cdn link  -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">
+
+    <!-- custom css file link  -->
+    <link rel="stylesheet" href="css/style.css">
+
+</head>
+<body>
+    <!-- register section starts  -->
+
+    <section class="form-container">
+        <form action="" method="post">
+            <h3>Tạo tài khoản!</h3>
+            <div class="form-group">
+                @Html.AntiForgeryToken()
+                <div class="col-md-10">
+                    @Html.TextBoxFor(m => m.Email, new { @class = "form-control", placeholder = "Địa Chỉ Email", style = "min-width: 100% ; height : 60px ; border: 1px solid black ; padding-left: 10px ; padding-bottom: 10px " })
+                    @Html.ValidationMessageFor(m => m.Email, "", new { @class = "text-danger" })
+                </div>
+                <br>
+                <div class="col-md-10">
+                    @Html.PasswordFor(m => m.Password, new { @class = "form-control", placeholder = "Mật Khẩu", style = "min-width: 100%; height: 60px; border: 1px solid black; padding-left: 10px" })
+                    @Html.ValidationMessageFor(m => m.Password, "", new { @class = "text-danger" })
+                </div>
+                <br>
+                <div class="col-md-10">
+                    @Html.PasswordFor(m => m.ConfirmPassword, new { @class = "form-control", placeholder = "Xác Nhận Mật Khẩu", style = "min-width: 100%; height: 60px; border: 1px solid black; padding-left: 10px" })
+                    @Html.ValidationMessageFor(m => m.ConfirmPassword, "", new { @class = "text-danger" })
+                </div>
+                  <br>
+                    <div class="form-group">
+                        <label class="control-label" style="font-size: 15px;">Bạn muốn trở thành ai trong trang web:</label>
+                        <div class="form-check form-check-inline">
+                            <label class="form-check-label" style="font-size: 16px;">
+                                @Html.RadioButtonFor(m => m.AccountType, "Khách Hàng", new { @class = "form-check-input" }) Khách Hàng
+                            </label>
+                        </div>
+                        <div class="form-check form-check-inline">
+                            <label class="form-check-label" style="font-size: 16px;">
+                                @Html.RadioButtonFor(m => m.AccountType, "Chủ Trọ", new { @class = "form-check-input" }) Chủ Trọ
+                            </label>
+                        </div>
+                    </div>
+                <input type="submit" value="Đăng Ký" name="submit" class="btn">
+            </div>
+        </form>
+
+    </section>
+
+    <!-- register section ends -->
+    <!-- custom js file link  -->
+    <script src="js/script.js"></script>
+
+</body>
+</html>
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
